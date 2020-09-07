@@ -1,0 +1,9 @@
+{
+  "name": "app",
+  "dependencies": {
+    "common": "workspace:*"
+  },
+  "scripts": {
+    "start": "yarn tool:node ./index.ts"
+  }
+}
